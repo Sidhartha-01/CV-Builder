@@ -1,7 +1,7 @@
 # CV-Builder
 CV_Builder-GUI based Application using Python Tkinter Module).
 
-#DEMO
+#Sample
 
 ![Screenshot 2024-05-27 220106](https://github.com/Sidhartha-01/CV-Builder/assets/129527324/94582f33-4052-4c53-bf58-92ec8019e8da)
 #
